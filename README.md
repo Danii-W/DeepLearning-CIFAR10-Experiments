@@ -1,5 +1,11 @@
 # DeepLearning-CIFAR10-Experiments 🚀
 
+![Analysis](https://img.shields.io/badge/type-analysis-green)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Python](https://img.shields.io/badge/python-PyTorch-blue)
+![Jupyter](https://img.shields.io/badge/tool-Jupyter-orange)
+
+
 ## Overview 📚
 This repository is a playground for exploring various neural network models and techniques using the CIFAR-10 dataset within PyTorch. The series of Jupyter notebooks demonstrate how different configurations like learning rates, activation functions, and model complexities impact the performance of image classification models.
 
