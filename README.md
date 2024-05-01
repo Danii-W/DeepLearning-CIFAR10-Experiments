@@ -29,6 +29,13 @@ Here's a brief overview of each notebook in this repository, each tailored to ex
 - **PyTorch**: Main deep learning library used.
 - **Jupyter Notebook**: For interactive coding and visualization.
 
+## Libraries and Tools 🛠️
+The following libraries and tools are used in this project:
+- **NumPy**: For numerical operations.
+- **Matplotlib**: For creating visualizations.
+- **torchvision**: Provides access to datasets, model architectures, and image transformations for computer vision.
+- **Pillow (PIL)**: For image processing tasks.
+
 ## Reference 📖
 These tutorials are based on the [official PyTorch CIFAR-10 tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
 
